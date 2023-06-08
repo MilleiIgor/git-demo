@@ -4,7 +4,11 @@ standing strong
 on this their chosen battle field 
 on this time i add more changes
 
+<<<<<<< HEAD
 form the lines 
 shield by shield
 
 --- The last commite ----
+=======
+___________________
+>>>>>>> parent of 76dd20c (Revert "all finish comite")
